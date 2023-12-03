@@ -1,7 +1,6 @@
 # 022023_d-muralis_java-spring
 Criar um projeto Spring Boot para permitir o cadastramento, consulta, exclusão, lista, pesquisa e alteração de Clientes seguindo a modelagem fornecida.
-
-veja o desafio através do arquivo D01_SPRINGBOOT_BASICO_V01_04072022.pdf
+<br>veja o desafio através do arquivo D01_SPRINGBOOT_BASICO_V01_04072022.pdf
 
 
 
