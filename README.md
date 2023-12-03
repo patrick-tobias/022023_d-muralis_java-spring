@@ -3,6 +3,8 @@ Criar um projeto Spring Boot para permitir o cadastramento, consulta, exclusão,
 
 veja o desafio através do arquivo D01_SPRINGBOOT_BASICO_V01_04072022.pdf
 
+
+
 **uso do projeto**
 O projeto não possui conexão e persistência em banco de dados, em vez disso, foi criada uma classe que simula um banco de dados através de Listas.
 
@@ -35,8 +37,13 @@ A população inicial dos dados será realizada com dados aleatórios, gerados p
     }
   }
 
+
+
 **Desafio 2.0 - Faça você também**
 Nesse desafio não foi implementado nenhuma lógica de validação de dados.
+
 Embora não tenha sido pedido no desafio, a validação de dados é importante para garantir que os dados estão sendo preenchidos corretamente.
+
+
 
 Sugestão: Ao realizar você também o desafio, teste pensar e implementar uma solução que valide os dados manipulados pela aplicação.
